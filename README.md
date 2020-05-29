@@ -13,4 +13,4 @@ NMIN - Minimum number of layers kept for all q\
 MASS - Mass of subsurface GFMD atoms\
 GAMMA - Damping coefficient for subsurface Kelvin Damping\
 
-At present, this code works only for FCC100 faces with single atom unit cells.
+At present, this code works only for FCC (100) faces with single atom unit cells.
